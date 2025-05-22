@@ -1,0 +1,16 @@
+.banner{
+    background-image: url("C:/Users/LENOVO-2/OneDrive/Desktop/portfolio/download (3).jpeg");
+padding:230px 0;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.container{
+    color:black;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.skills-padding{
+    padding: 75px 0;
+}
+
